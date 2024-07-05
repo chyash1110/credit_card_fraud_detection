@@ -26,6 +26,8 @@ The dataset used in this project is `creditcard.csv`, which contains the followi
 - `Amount`: The transaction amount.
 - `Class`: The label where 1 indicates fraud and 0 indicates normal transactions.
 
+- Link to dataset: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 ## Installation
 
 To run this project, you will need Python and the following libraries:
